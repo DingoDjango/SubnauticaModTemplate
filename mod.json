@@ -3,6 +3,11 @@
   "DisplayName": "",
   "Author": "",
   "Version": "1.0.0",
+  "Dependencies": [],
+  "LoadBefore": [],
+  "LoadAfter": [],
+  "Enable": true,
+  "Game": "Subnautica",
   "AssemblyName": "",
   "EntryMethod": ""
 }
