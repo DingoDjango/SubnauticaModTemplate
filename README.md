@@ -7,7 +7,7 @@ This is a simple template for Visual Studio. It helps you set up a QMods-based m
 - That's it! You can begin working with the template.
 
 ## Functionality
-- Use the "Subnautica_EmptyMod" template after clicking **Create new project...*
+- Use the "Subnautica_EmptyMod" template after clicking *Create new project...*
   - Remember to choose a project name and optionally a solution name!
 - References and settings are pre-adjusted based on QMods v2.0.0 and above for the Subnautica Steam release.
   - If you aren't using Steam you will need to fix the project references.
